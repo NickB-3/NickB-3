@@ -1,9 +1,9 @@
 
 # Hello there, welcome to Nicholas Brannon's README.md
 
-Hi, my name is Nicholas or Nick for short. I am from Florida Gateway College and I am actively studying technology for a Associates in Science, Computer Information Technology.
+Hi, my name is Nicholas or Nick for short. I am from Florida Gateway College and I am set to graduate soon with an Associates in Science, Computer Information Technology.
 
-I currently work with Florida Gateway College as a Student Assistant for the tech department.
+I currently work full-time at Florida Gateway College as a Network/Systems Technician.
 
 I love to expand my horizons, learn new things, and meet people along the way. 
 
