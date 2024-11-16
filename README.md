@@ -19,24 +19,25 @@ Some of my notable skills:
 - Hardware
 - Troubleshooting
 - Social Media
-
+- Programming & Scripting
 
 ### Interests
 
-My interests range from simple to complex and I hope you enjoy reading about me.
+My interests are every changing as technology evolves. Every day I find new things to learn about or use and I enjoy every moment of it.
 
-- Coding
+- Open-Source
 - Music
 - Games
 - Simulators
 - Technology
-- Hardware
-- Software
 - Research
 - Science 
 - UI and UX Design
 - Learning
+- Philosophy
+- Artificial Intellegence
+- Machine Learning
 
-#### Coding Languages
+#### Languages
 ![Static Badge](https://img.shields.io/badge/-HTML5-HTML?logo=html5&labelColor=grey&color=red) ![Static Badge](https://img.shields.io/badge/-Python-Python?logo=python&logoColor=yellow&labelColor=grey&color=blue) ![Static Badge](https://img.shields.io/badge/-Rust-Rust?logo=rust&logoColor=brown&labelColor=white&color=grey)
 ![Static Badge](https://img.shields.io/badge/-CSS-CSS?logo=css3&labelColor=grey&color=%231572B6) ![Static Badge](https://img.shields.io/badge/-Java-Java?logo=openjdk&logoColor=white&labelColor=grey&color=blue) ![Static Badge](https://img.shields.io/badge/-MySQL-MySQL?logo=mysql&labelColor=white&color=blue)
