@@ -38,4 +38,5 @@ My interests range from simple to complex and I hope you enjoy reading about me.
 - Learning
 
 #### Coding Languages
-<img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="50" height="50"> <img src="https://cdn-icons-png.freepik.com/512/919/919826.png" width="50" height="50"> <img src="https://cdn-icons-png.freepik.com/512/919/919852.png" width="50" height="50"> <img src="https://cdn-icons-png.flaticon.com/512/919/919854.png" width="50" height="50"> <img src="https://rust-lang.org/logos/rust-logo-512x512.png" width="50" height="50"> <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" width="50" height="50">
+![Static Badge](https://img.shields.io/badge/-HTML5-HTML?logo=html5&labelColor=grey&color=red) ![Static Badge](https://img.shields.io/badge/-Python-Python?logo=python&logoColor=yellow&labelColor=grey&color=blue) ![Static Badge](https://img.shields.io/badge/-Rust-Rust?logo=rust&logoColor=brown&labelColor=white&color=grey)
+![Static Badge](https://img.shields.io/badge/-CSS-CSS?logo=css3&labelColor=grey&color=%231572B6) ![Static Badge](https://img.shields.io/badge/-Java-Java?logo=openjdk&logoColor=white&labelColor=grey&color=blue) ![Static Badge](https://img.shields.io/badge/-MySQL-MySQL?logo=mysql&labelColor=white&color=blue)
