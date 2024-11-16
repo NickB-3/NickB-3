@@ -39,5 +39,8 @@ My interests are every changing as technology evolves. Every day I find new thin
 - Machine Learning
 
 #### Languages
-![Static Badge](https://img.shields.io/badge/-HTML5-HTML?logo=html5&labelColor=grey&color=red) ![Static Badge](https://img.shields.io/badge/-Python-Python?logo=python&logoColor=yellow&labelColor=grey&color=blue) ![Static Badge](https://img.shields.io/badge/-Rust-Rust?logo=rust&logoColor=brown&labelColor=white&color=grey)
-![Static Badge](https://img.shields.io/badge/-CSS-CSS?logo=css3&labelColor=grey&color=%231572B6) ![Static Badge](https://img.shields.io/badge/-Java-Java?logo=openjdk&logoColor=white&labelColor=grey&color=blue) ![Static Badge](https://img.shields.io/badge/-MySQL-MySQL?logo=mysql&labelColor=white&color=blue)
+- ![Static Badge](https://img.shields.io/badge/-HTML5-HTML?logo=html5&labelColor=grey&color=red) 
+- ![Static Badge](https://img.shields.io/badge/-Python-Python?logo=python&logoColor=yellow&labelColor=grey&color=blue)
+- ![Static Badge](https://img.shields.io/badge/-Rust-Rust?logo=rust&logoColor=brown&labelColor=white&color=grey)
+- ![Static Badge](https://img.shields.io/badge/-CSS-CSS?logo=css3&labelColor=grey&color=%231572B6)
+- ![Static Badge](https://img.shields.io/badge/-Java-Java?logo=openjdk&logoColor=white&labelColor=grey&color=blue) ![Static Badge](https://img.shields.io/badge/-MySQL-MySQL?logo=mysql&labelColor=white&color=blue)
